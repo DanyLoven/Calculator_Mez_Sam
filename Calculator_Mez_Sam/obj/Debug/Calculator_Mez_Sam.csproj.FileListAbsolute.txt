@@ -1,0 +1,10 @@
+C:\Users\mezui\source\repos\Calculator_Mez_Sam\Calculator_Mez_Sam\bin\Debug\Calculator_Mez_Sam.exe.config
+C:\Users\mezui\source\repos\Calculator_Mez_Sam\Calculator_Mez_Sam\bin\Debug\Calculator_Mez_Sam.exe
+C:\Users\mezui\source\repos\Calculator_Mez_Sam\Calculator_Mez_Sam\bin\Debug\Calculator_Mez_Sam.pdb
+C:\Users\mezui\source\repos\Calculator_Mez_Sam\Calculator_Mez_Sam\obj\Debug\Calculator_Mez_Sam.csproj.AssemblyReference.cache
+C:\Users\mezui\source\repos\Calculator_Mez_Sam\Calculator_Mez_Sam\obj\Debug\Calculator_Mez_Sam.Form1.resources
+C:\Users\mezui\source\repos\Calculator_Mez_Sam\Calculator_Mez_Sam\obj\Debug\Calculator_Mez_Sam.Properties.Resources.resources
+C:\Users\mezui\source\repos\Calculator_Mez_Sam\Calculator_Mez_Sam\obj\Debug\Calculator_Mez_Sam.csproj.GenerateResource.cache
+C:\Users\mezui\source\repos\Calculator_Mez_Sam\Calculator_Mez_Sam\obj\Debug\Calculator_Mez_Sam.csproj.CoreCompileInputs.cache
+C:\Users\mezui\source\repos\Calculator_Mez_Sam\Calculator_Mez_Sam\obj\Debug\Calculator_Mez_Sam.exe
+C:\Users\mezui\source\repos\Calculator_Mez_Sam\Calculator_Mez_Sam\obj\Debug\Calculator_Mez_Sam.pdb
